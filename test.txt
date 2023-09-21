@@ -1,0 +1,9 @@
+Cicada 3301 is a nickname given to three sets of puzzles posted under the name "3301" online between 2012 and 2014. The first puzzle started on January 2, 2012, on 4chan[1] and ran for nearly a month. 
+A second round of puzzles began one year later on January 4, 2013, and then a third round following the confirmation of a fresh clue posted on Twitter on January 4, 2014.[2][3] The third puzzle has yet to be solved. 
+The stated intent was to recruit "intelligent individuals" by presenting a series of puzzles to be solved; no new puzzles were published on January 4, 2015.
+ A new clue was posted on Twitter on January 5, 2016.[4][5] Cicada 3301 posted their last verified OpenPGP-signed message in April 2017, denying the validity of any unsigned puzzle.[6]
+The puzzles focused heavily on data security, cryptography, steganography, and 
+internet anonymity.[7][8][9] It has been called "the most elaborate and mysterious puzzle of the internet age",[10] 
+and is listed as one of the "top 5 eeriest, unsolved mysteries of the internet" by The Washington Post,[11] and much speculation exists as to its function. Many have speculated that the puzzles are a 
+recruitment tool for the NSA, CIA,[12] MI6, a "Masonic conspiracy",[13] or a cyber mercenary group.[1][7] Others have stated Cicada 3301 is an alternate reality game, although no company or individual has attempted to monetize it.[10]
+ Some of the final contestants believe that Cicada 3301 is a remnant of the late 1980s and 1990s Cypherpunk movement.[14]
